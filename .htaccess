@@ -1,4 +1,4 @@
-Header set Content-Security-Policy "default-src 'none'; script-src 'self'; style-src 'sha256-oyWP6Eya2ZYRkvFXJjI31evrcbbwz58g6/0TfdNkmmQ='; img-src 'self'; connect-src 'none'; font-src 'none'; object-src 'none'; media-src 'none'; frame-src 'none'; child-src 'none'; form-action 'none'; frame-ancestors 'none'; base-uri 'none'; manifest-src https://alexanderjshapiro.com/favicons/site.webmanifest; upgrade-insecure-requests;"
+Header set Content-Security-Policy "default-src 'none'; script-src 'self'; style-src 'sha256-hLTVvY60WY0+404NIYOKgmn0OQNSIQM7Vvb34HqomYw='; img-src 'self'; connect-src 'none'; font-src 'none'; object-src 'none'; media-src 'none'; frame-src 'none'; child-src 'none'; form-action 'none'; frame-ancestors 'none'; base-uri 'none'; manifest-src https://alexanderjshapiro.com/favicons/site.webmanifest; upgrade-insecure-requests;"
 Header set X-Robots-Tag "noindex, nofollow"
 
 ErrorDocument 400 /errors/400.html
